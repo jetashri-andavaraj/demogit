@@ -2,6 +2,10 @@ insta Model
 
 POst 
 
+story
+
+msg 
+
 like
 
 comment
